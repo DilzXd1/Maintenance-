@@ -1,4 +1,4 @@
 {
-  "maintenance": true,
-   "message": ""
+  "maintenance": "on",
+   "message": "Security Alert...",
 }
